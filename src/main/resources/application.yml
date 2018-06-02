@@ -1,0 +1,6 @@
+server:
+  port: 9001
+spring:
+  boot:
+    admin:
+      url: http://localhost:9001
